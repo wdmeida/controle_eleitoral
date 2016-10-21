@@ -1,0 +1,60 @@
+
+Voto computado, candidato 92 possui 1 voto(s) - Prefeito
+
+Voto computado, candidato 92 possui 2 voto(s) - Prefeito
+
+Voto computado, candidato 92 possui 3 voto(s) - Prefeito
+
+Voto não computado.
+
+Apurar - Prefeito
+92  3 voto(s).
+
+Voto computado, candidato 35 possui 1 voto(s) - Vereador
+
+Voto não computado.
+
+Voto computado, candidato 58 possui 1 voto(s) - Prefeito
+
+Apurar - Prefeito
+92  3 voto(s).
+58  1 voto(s).
+
+Voto computado, candidato 58 possui 2 voto(s) - Prefeito
+
+Voto não computado.
+
+Voto computado, candidato 77 possui 1 voto(s) - Vereador
+
+Voto computado, candidato 77 possui 2 voto(s) - Vereador
+
+Voto computado, candidato 84 possui 1 voto(s) - Vereador
+
+Voto computado, candidato 58 possui 3 voto(s) - Prefeito
+
+Voto computado, candidato 84 possui 2 voto(s) - Vereador
+
+Meliante removido, 9 voto(s) válido(s) no sistema.
+
+Voto computado, candidato 92 possui 3 voto(s) - Prefeito
+
+Voto não computado.
+
+Voto computado, candidato 35 possui 2 voto(s) - Vereador
+
+Apurar - Prefeito
+58  3 voto(s).
+92  3 voto(s).
+
+Voto computado, candidato 27 possui 1 voto(s) - Vereador
+
+Voto computado, candidato 58 possui 4 voto(s) - Prefeito
+
+Apurar - Vereador
+35  2 voto(s).
+84  2 voto(s).
+27  1 voto(s).
+
+Meliante nao removido, 13 voto(s) válido(s) no sistema.
+
+Voto não computado.

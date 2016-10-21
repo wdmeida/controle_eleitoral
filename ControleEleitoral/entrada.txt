@@ -1,0 +1,31 @@
+1
+4 2 10
+0 0 wx6ry 92
+0 0 6xgmo 92
+0 0 2hvs3 92
+0 0 6xgmo 92
+2 1 1
+2 0 2
+0 1 6xgmo 35
+0 0 6xgmo 58
+0 0 nb1g3 58
+2 0 4
+0 0 t06w9 58
+0 0 wx6ry 92
+0 1 2hvs3 77
+0 1 lo1sy 77
+0 1 t06w9 84
+0 0 9q1be 58
+0 1 8wirg 84
+1 2hvs3
+0 0 dwami 92
+0 1 t06w9 35
+0 1 nb1g3 35
+2 0 2
+0 1 cqumg 27
+0 0 cqumg 58
+2 1 3
+1 aaaaa
+0 0 cqumg 92
+3
+
